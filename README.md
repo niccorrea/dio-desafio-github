@@ -1,7 +1,5 @@
-# dio-desafio-github
-Desafio de Projeto de Git/ Github
+# Desafio de Projeto de Git/ Github
 
-Repositório criado para **Desafio do DIO**
+## Repositório criado para Desafio do DIO
 
-##Bootcamp: **Eduzz Fullstack Developer #2** - Em andamento.
-
+#### Bootcamp: Eduzz Fullstack Developer #2 - Em andamento.
